@@ -8,4 +8,4 @@ const navigationItem = (props)=>(
         >{props.children}</a>
     </li>
 );
-export default navigationItem
+export default navigationItem;
