@@ -1,6 +1,6 @@
 {
   "name": "my-burger-app",
-  "homepage": "https://vishwjeet-singh.github.io/burger-builder-app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
